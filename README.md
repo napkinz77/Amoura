@@ -1,7 +1,7 @@
 # Amoura
 A minecraft modpack containing Pixelmon and a few other QoL mods that enhance the Pixelmon experience
 
-I own none of these mods, I have simply compiled them and distributed them in a mod pack. Please support the original authors of these mods!
+I own none of these mods, I have simply compiled them and distributed them in a mod pack. Please support the original authors of these mods! Additionally, this server is optimized for a more Pixelmon heavy challenge than a Minecraft heavy one. The general consensus on the server has been no PVP and there is no hostile mob spawning (for the most part). Also, you keep inventory on death. As such, please be respectful to everyone playing and try not to be needlessly destructive. There is a land permissions mod installed, so ask me (WindexTheGr8) or another mod that is online for help if you need it. Other than that, happy Pixelmoning!
 
 Welcome to Amoura region! I hope you enjoy your time here! If you are not familiar with CURSE FORGE for managing and launching minecraft mods,
 the first thing you are going to want to do is install curse forge and set up minecraft within it. It should auto-detect your minecraft install,
