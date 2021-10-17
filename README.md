@@ -40,3 +40,7 @@ A: That is a mod that I like to use called HWYLA which just tells you what you a
 Q: I did everything manually and I don't have the server IP. What do?
 
 A: The server IP is 167.114.100.203 and the name of the Region is Amoura :)
+
+Q: Why are my menues so scuffed and glitchy when I enable all the resource packs?
+
+A: Well that's because you have enabled multiple resource packs that are optional menu reskins for the same menu. They are likely conflicting and causing some pixel vomit, but no worries because you can just turn them all off and play like a normal trainer!
