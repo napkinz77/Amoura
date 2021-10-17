@@ -29,3 +29,6 @@ A: you may not ask this, but it's a game changer because shinies show up shiny o
 options. Under "Minimap Preset 1" you can scroll down to "Mob Display" and change that to "Large Icons". Additionally, I'd change your map to a square
 because circles are lame. Rectangle is also acceptable. As a last side note, you can use the "-" and "+" keys to zoom in and out while you are in game.
 
+Q: What are all of these annoying boxes that keep showing up whenever I look at something? And for that matter, what's up with these coordinates under my crosshair? This is an outrage modpack=unplayable!
+
+A: That is a mod that I like to use called HWYLA which just tells you what you are looking at. The settings for this are completely configurable in mod options and it has Pixelmon integration so I thought I'd include it. To get rid of all the boxes with info about blocks and Pokemon, just diable HWYLA and Waila Harvestability in your mod options. The coordinates under the crosshair are a chunk measurer that comes enable by deafult with the WorldEdit CUI. You can either assign a button in controls to toggle this (and then toggle it) or just disable WorldEdit CUI 3 altogether which is what I would do if I were you.
