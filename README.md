@@ -1,7 +1,9 @@
 # Amoura
 A minecraft modpack containing Pixelmon and a few other QoL mods that enhance the Pixelmon experience
 
-1.2 UPDATE: Hellow Gamers! For the sake of simplicity I am going to edit this document with the relevant updated links to the modfiles. The server has been updated, so you will probably need these updated modfiles to connect. All other information here is still relevant! If you are updating from an earlier version, you should be able to copy your config for things like journeymap so you can keep your waypoints and whatnot.
+1.3 UPDATE: Hiya Gamers, ya miss me? Of course you did! It's more Pixelmoncraft time comin' in hot for your enjoyment! I have updated forge and the relevant mods for the first time in half a year (ish) and the server is once more operational! Refer to previous 1.2 UPDATE for vague instructions on transferring your old waypoints and whatnot if this is something you require!
+
+1.2 UPDATE: Hello Gamers! For the sake of simplicity I am going to edit this document with the relevant updated links to the modfiles. The server has been updated, so you will probably need these updated modfiles to connect. All other information here is still relevant! If you are updating from an earlier version, you should be able to copy your config for things like journeymap so you can keep your waypoints and whatnot.
 
 I own none of these mods, I have simply compiled them and distributed them in a mod pack. Please support the original authors of these mods! Additionally, this server is optimized for a more Pixelmon heavy challenge than a Minecraft heavy one. The general consensus on the server has been no PVP and there is no hostile mob spawning (for the most part). Also, you keep inventory on death. As such, please be respectful to everyone playing and try not to be needlessly destructive. There is a land permissions mod installed, so ask me (WindexTheGr8) or another mod that is online for help if you need it. Other than that, happy Pixelmoning!
 
@@ -41,7 +43,7 @@ A: That is a mod that I like to use called HWYLA which just tells you what you a
 
 Q: I did everything manually and I don't have the server IP. What do?
 
-A: The server IP is 167.114.100.203 and the name of the Region is Amoura :)
+A: The server IP is 51.161.116.65 and the name of the Region is Amoura :)
 
 Q: Why are my menues so scuffed and glitchy when I enable all the resource packs?
 
